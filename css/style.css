@@ -1,0 +1,188 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.logo{
+    flex-basis: 30%;
+}
+.logo img{}
+nav{
+    flex-basis: 70%;
+}
+nav ul{display: flex;margin: 0px;padding: 0px;justify-content: flex-end;}
+nav ul li{
+    list-style-type: none;
+}
+nav ul li a{
+    color: #000;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 17px;
+    display: block;
+}
+.lisa{
+	background-image: url('../images/item-01.jpg');
+	padding-top: 276px;
+    padding-bottom: 276px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.lisa p{
+    font-size: 10px;
+    letter-spacing: 1px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.lisa h1{
+    font-size: 28px;
+    background: #524b70;
+    color: #fff;
+    width: 358px;
+    padding: 14px;
+    margin: auto;
+}
+
+.Osteopathie{
+	background-image: url('../images/item-02.jpg');
+	padding-top: 276px;
+    padding-bottom: 276px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Osteopathie p{
+	font-size: 10px;
+    letter-spacing: 1px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.Osteopathie h1{
+	font-size: 28px;
+    background: #524b70;
+    color: #fff;
+    width: 358px;
+    padding: 14px;
+    margin: auto;
+}
+
+.Illustrationen{
+	background-image: url('../images/item-03.jpg');
+	padding-top: 276px;
+    padding-bottom: 276px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Illustrationen p{
+	font-size: 10px;
+    letter-spacing: 1px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.Illustrationen h1{
+	font-size: 28px;
+    background: #524b70;
+    color: #fff;
+    width: 358px;
+    padding: 14px;
+    margin: auto;
+}
+
+.Swearing{
+	background-image: url('../images/item-04.jpg');
+	padding-top: 276px;
+    padding-bottom: 276px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Swearing p{
+	font-size: 10px;
+    letter-spacing: 1px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.Swearing h1{
+	font-size: 28px;
+    background: #524b70;
+    color: #fff;
+    width: 358px;
+    padding: 14px;
+    margin: auto;
+}
+
+.Complexity{
+	background-image: url('../images/item-05.jpg');
+	padding-top: 276px;
+    padding-bottom: 276px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Complexity p{
+	font-size: 10px;
+    letter-spacing: 1px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.Complexity h1{
+	font-size: 28px;
+    background: #524b70;
+    color: #fff;
+    width: 358px;
+    padding: 14px;
+    margin: auto;
+}
+
+.lapin{
+	background-image: url('../images/item-06.jpg');
+	padding-top: 276px;
+    padding-bottom: 276px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.lapin p{
+	font-size: 10px;
+    letter-spacing: 1px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.lapin h1{
+	font-size: 28px;
+    background: #524b70;
+    color: #fff;
+    width: 358px;
+    padding: 14px;
+    margin: auto;
+}
+footer{
+	background: #e1fb7b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer p{
+	    font-size: 15px;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 0px;
+}
